@@ -1,5 +1,10 @@
-WELCOME TO MY PROJECT
+STEPS TO START THE PROJECT
 =====================
+
+
+
+
+
 
 1) docker-compose up -d
 2) Start SpringBoot application
@@ -7,8 +12,15 @@ WELCOME TO MY PROJECT
 
 
 
+
+
 CONSOLE EXAMPLE
 ===============
+
+
+
+
+
 
 Enter command: 1)addBook  2)listBooks  3)updateBook  4)deleteBook  5)exit   
 PROPER SYNTAX: addBook <isbn[String]> <title[String]> <author[String]> <publishedDate[LocalDate]> <availableCopies[int]>   
